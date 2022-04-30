@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "203739959136",
+    "project_id": "enhanceparkin",
+    "storage_bucket": "enhanceparkin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203739959136:android:f66a4f7a1b9847728f9805",
+        "android_client_info": {
+          "package_name": "Enhance.Parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203739959136-6hrgplre20a8bst2ig6ep41l5qvam22g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMBEqZRPzmUUSHJZ_I767-6RLK0IdFgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203739959136-6hrgplre20a8bst2ig6ep41l5qvam22g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203739959136:android:e5fecb3525db30428f9805",
+        "android_client_info": {
+          "package_name": "com.example.enhancedparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203739959136-6hrgplre20a8bst2ig6ep41l5qvam22g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMBEqZRPzmUUSHJZ_I767-6RLK0IdFgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203739959136-6hrgplre20a8bst2ig6ep41l5qvam22g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
