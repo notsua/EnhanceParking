@@ -1,11 +1,11 @@
 #Firebase
 pip install python-firebase
 from firebase import firebase 
-firebase = firebase.FirebaseApplication("https://enhanceparkin-default-rtdb.asia-southeast1.firebasedatabase.app/",None)
+firebase = firebase.FirebaseApplication("https://enhanceparking-default-rtdb.asia-southeast1.firebasedatabase.app/",None)
 data = {
     'Co-ordinates':'13.139268348118557,77.6261566464334',
     'Available-Spaces':'19',
     'Location':'Baglur'
 }
-result=firebase.post('https://enhanceparkin-default-rtdb.asia-southeast1.firebasedatabase.app/Enhance',data)
+result=firebase.post('https://enhanceparking-default-rtdb.asia-southeast1.firebasedatabase.app/Enhance',data)
 print(result)
